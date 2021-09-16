@@ -33,4 +33,11 @@ int sumFirstN(int n) { //Done by Sam, sum of first n integers
   return s;
   }
 
-  //hi 
+  //hi
+
+void CSAwesomesauce(){
+while(x>8)
+{
+  printf("This is an apple sauce company for computer science lovers")
+  }
+  }
