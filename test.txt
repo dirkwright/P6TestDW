@@ -11,38 +11,3 @@ else {
 realGrade=realGrade;
 }
 }
-
-
-
-void gregorAwsome()
-{
-  while(1){
-<<<<<<< HEAD
-  printf("Gregor is awesome") //gregor what are you talking about -raul
-  }
-  return s;
-}
-
-// Raul was here 
-=======
-    printf("Gregor is awsome")
-  }
-}
-
-void aplusb(int a, int b) { //Alex's function
-   int x = a+b;
-}
-
-<<<<<<< HEAD
-
-
-//chris was here
-=======
-int sumFirstN(int n) { //Done by Sam, sum of first n integers
-  int s = 0;
-  for(int i =1; i < n+1; i ++) {
-  s += i;
-  }
-  return s;
->>>>>>> 516eff15afaf8d15d7786871d3acc216806337b3
->>>>>>> a74911b0f7e019eac919b51332842c1bcb7ef8ab
