@@ -1,13 +1,34 @@
 //Mr Wright was here
 
 
+void giveAnEveryoneAnA(int realGrade){
+
+if (realGrade<100){
+realGrade=100;
+}
+
+else {
+realGrade=realGrade;
+}
+}
 
 
 
-
-void gregorAwesome()
+void gregorAwsome()
 {
   while(1){
+<<<<<<< HEAD
   printf("Gregor is awesome") //gregor what are you talking about -raul
+=======
+    printf("Gregor is awsome")
   }
+}
+
+int sumFirstN(int n) { //Done by Sam, sum of first n integers
+  int s = 0;
+  for(int i =1; i < n+1; i ++) {
+  s += i;
+>>>>>>> 99ee31e2f7aaeeaa908534b9636c7d25588e8759
+  }
+  return s;
 }
