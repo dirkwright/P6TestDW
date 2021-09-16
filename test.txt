@@ -1,4 +1,4 @@
-//Mr Wright was here 
+//Mr Wright was here
 
 
 
@@ -8,6 +8,6 @@
 void gregorAwesome()
 {
   while(1){
-    printf("Gregor is awesome")
+  printf("Gregor is awesome") //gregor what are you talking about -raul
   }
 }
