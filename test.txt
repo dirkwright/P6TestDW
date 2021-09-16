@@ -31,3 +31,4 @@ int sumFirstN(int n) { //Done by Sam, sum of first n integers
   s += i;
   }
   return s;
+  }
