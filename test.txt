@@ -11,6 +11,7 @@ else {
 realGrade=realGrade;
 }
 }
+<<<<<<< HEAD
 
 
 
@@ -35,3 +36,5 @@ int sumFirstN(int n) { //Done by Sam, sum of first n integers
 
 
   //hi
+=======
+>>>>>>> c12b4aa90197915a3dcd11055cf949fdc174193a
