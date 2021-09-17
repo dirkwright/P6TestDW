@@ -1,5 +1,6 @@
 //Mr Wright was here
 
+#include"main.h"
 
 void giveAnEveryoneAnA(int realGrade){
 
