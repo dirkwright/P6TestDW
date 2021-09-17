@@ -18,7 +18,6 @@ realGrade=realGrade;
 void gregorAwsome()
 {
   while(1){
-<<<<<<< HEAD
   printf("Gregor is awesome") //gregor what are you talking about -raul
   }
   return s;
@@ -26,30 +25,3 @@ void gregorAwsome()
 
 // Raul was here
 //raul is still here, let me show you how cool I am!
-=======
-    printf("Gregor is awsome")
-  }
-}
-
-void aplusb(int a, int b) { //Alex's function
-   int x = a+b;
-}
-
-int sumFirstN(int n) { //Done by Sam, sum of first n integers
-  int s = 0;
-  for(int i =1; i < n+1; i ++) {
-  s += i;
-  }
-  return s;
-  }
-
-  //hi
-
-void CSAwesomesauce(){
-while(x>8)
-{
-  printf("This is an apple sauce company for computer science lovers")
-  }
-  }
-  //
->>>>>>> 7ba8666f97804d7edad1a6070ae93bd286feac98
