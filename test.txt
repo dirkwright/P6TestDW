@@ -23,6 +23,10 @@ void gregorAwsome()
   return s;
 }
 
-// Raul was here
-//raul is still here, let me show you how cool I am!
-//yeah I think this is actually genuinely working now, awesome.
+void raulCool()
+{
+  while(1){
+  printf("Raul is cool")
+  }
+  return s;
+}
