@@ -18,7 +18,7 @@ realGrade=realGrade;
 void gregorAwsome()
 {
   while(1){
-  printf("Gregor is awesome") //gregor what are you talking about -raul
+  printf("Gregor is taking shortcuts") //gregor what are you talking about -raul
   }
   return s;
 }
